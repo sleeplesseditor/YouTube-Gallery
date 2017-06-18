@@ -1,0 +1,23 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.add-form {
+  padding: 20px;
+}
+
+body {
+  background: mistyrose;
+}
+
+input[type=text], textarea{
+  width: 500px;
+  padding: 4px;
+}
+
+.delete a {
+  color: red;
+  font-size: 2rem;
+  text-decoration: none;
+}
